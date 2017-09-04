@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src
+END
+NoiseSuppress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/NoiseSuppress.cpp
+END
+CommFun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/CommFun.cpp
+END
+EchoCancel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/EchoCancel.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/main.cpp
+END
+FileOpera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/FileOpera.cpp
+END
+NoiseSuppress.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/NoiseSuppress.h
+END
+CommFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/CommFun.h
+END
+EchoCancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/EchoCancel.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/config.h
+END
+FileOpera.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/AEC_NS_Floating/AEC_NS_Floating/src/FileOpera.h
+END

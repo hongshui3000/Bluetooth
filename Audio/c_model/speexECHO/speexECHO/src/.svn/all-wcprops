@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src
+END
+speex_preprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speex_preprocess.h
+END
+jitter.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/jitter.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/Makefile.in
+END
+fixed_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fixed_bfin.h
+END
+speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speex_resampler.h
+END
+vorbis_psy.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/vorbis_psy.h
+END
+mdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/mdf.c
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/kiss_fft.c
+END
+testresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/testresample.c
+END
+fftwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fftwrap.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/config.h
+END
+speex_jitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speex_jitter.h
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/kiss_fft.h
+END
+fftwrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fftwrap.h
+END
+testECHO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/testECHO.cpp
+END
+filterbank.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/filterbank.c
+END
+os_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/os_support.h
+END
+bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/bfin.h
+END
+speexdsp_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speexdsp_types.h
+END
+filterbank.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/filterbank.h
+END
+speex_echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speex_echo.h
+END
+resample_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/resample_sse.h
+END
+math_approx.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/math_approx.h
+END
+kiss_fftr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/kiss_fftr.c
+END
+echo_diagnostic.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/echo_diagnostic.m
+END
+fixed_arm5e.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fixed_arm5e.h
+END
+misc_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/misc_bfin.h
+END
+kiss_fftr.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/kiss_fftr.h
+END
+fixed_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fixed_generic.h
+END
+testjitter.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/testjitter.c
+END
+smallft.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/smallft.c
+END
+smallft.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/smallft.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/resample.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/buffer.c
+END
+fixed_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fixed_debug.h
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/_kiss_fft_guts.h
+END
+speexdsp_config_types.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speexdsp_config_types.h.in
+END
+testecho.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/testecho.c
+END
+EchoCancellationCommFun.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/EchoCancellationCommFun.c
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/arch.h
+END
+scal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/scal.c
+END
+speex_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/speex_buffer.h
+END
+stack_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/stack_alloc.h
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/preprocess.c
+END
+EchoCancellationCommFun.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/EchoCancellationCommFun.h
+END
+testdenoise.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/testdenoise.c
+END
+fixed_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/fixed_arm4.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/Makefile.am
+END
+pseudofloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/pseudofloat.h
+END
+resample_neon.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexECHO/speexECHO/src/resample_neon.h
+END

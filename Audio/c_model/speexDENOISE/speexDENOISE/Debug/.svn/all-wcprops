@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug
+END
+FileOpera.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/FileOpera.obj
+END
+mdf.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/mdf.obj
+END
+kiss_fft.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/kiss_fft.obj
+END
+resample.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/resample.obj
+END
+buffer.obj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/buffer.obj
+END
+fftwrap.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/fftwrap.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/vc90.pdb
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/BuildLog.htm
+END
+speexDENOISE.exe.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/speexDENOISE.exe.intermediate.manifest
+END
+filterbank.obj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/filterbank.obj
+END
+scal.obj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/scal.obj
+END
+preprocess.obj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/preprocess.obj
+END
+testDENOISE.obj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/testDENOISE.obj
+END
+kiss_fftr.obj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/kiss_fftr.obj
+END
+jitter.obj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/jitter.obj
+END
+smallft.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/smallft.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/algorithm/!svn/ver/12/Eagle/Audio/c_model/speexDENOISE/speexDENOISE/Debug/vc90.idb
+END

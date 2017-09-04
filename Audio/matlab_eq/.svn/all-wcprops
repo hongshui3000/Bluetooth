@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq
+END
+tl_biquad.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/tl_biquad.m
+END
+tl_audio_eq.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/tl_audio_eq.m
+END
+TelinkEq.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/TelinkEq.m
+END
+tl_hpf.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/tl_hpf.m
+END
+tl_halfband.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/tl_halfband.m
+END
+tl_fractional.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/tl_fractional.m
+END
+iirtest.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/algorithm/!svn/ver/28/Eagle/Audio/matlab_eq/iirtest.m
+END
